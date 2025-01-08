@@ -1,0 +1,14 @@
+[33mcommit 722bbdeea5af1df690ac0bbfb208247f50255f33[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Isaac Boorer <iboorer@blackwattlepartners.com>
+Date:   Sun Oct 20 12:18:48 2024 +1100
+
+    again
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 3ffc147..c08a574 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,3 @@[m
+ # raspberry_art[m
+ random art project for raspberry[m
+[32m+[m[32mAdd new art projects to display using a raspberry pi - keep it provocative[m
